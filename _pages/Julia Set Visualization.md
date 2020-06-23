@@ -1,5 +1,5 @@
 ---
-layout: archieve
+layout: archive
 title: "Julia Set Visualization by Tags"
 permalink: /julia_set_visualization/
 author_profile: true
