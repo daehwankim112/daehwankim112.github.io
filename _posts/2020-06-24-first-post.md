@@ -2,7 +2,7 @@
 title: "First post ever"
 date: 2020-06-24
 layout: post
-tags: [github, io, first, post, daehwan, kim]
+tags: [machine learning, github, io, first, post, daehwan, kim]
 excerpt: "This is excerpt. Just testing where it will be located and how it looks like"
 ---
 
