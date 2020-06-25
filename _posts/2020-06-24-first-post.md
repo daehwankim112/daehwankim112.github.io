@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "First post ever"
 date: 2020-06-24
 tags: [machine learning, github, io, first, post, daehwan, kim]
@@ -48,9 +49,9 @@ And an image of myself
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/avatar.jpg" alt="image not found">
 
 
-Now it is about 11:48 pm I will check if it is working and if there is any issue, I will fix it later.
+There have been so many issues with this first post. I will log the issues that came up in a following post.
 
 I am following this tutorial
 [https://youtu.be/qWrcgHwSG8M](https://youtu.be/qWrcgHwSG8M)
 
-which explains nice and neat about set up of minimal mistakes jekyll.
+which explains how set up of minimal mistakes jekyll.
