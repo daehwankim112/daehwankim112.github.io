@@ -1,6 +1,6 @@
 ---
 title: Jekyll Chirpy
-date: 2022-11-05 22:00:00 -0800
+date: 2022-11-05 21:00:00 -0800
 categories: [Projects, Github Page]
 tags: [github,page,jekyll,chirpy,daehwan,kim,david]     # TAG names should always be lowercase
 ---
