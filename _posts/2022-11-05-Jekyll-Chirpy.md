@@ -7,7 +7,7 @@ tags: [github,page,jekyll,chirpy,daehwan,kim,david]     # TAG names should alway
 
 # Hello World!
 
-This is my firs post on my github page. This page is generated using jekyll chirpy.
+This is my first post on my github page. This page is generated using jekyll chirpy.
 
 Check their github: https://github.com/cotes2020/jekyll-theme-chirpy
 
