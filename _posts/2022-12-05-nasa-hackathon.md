@@ -2,7 +2,7 @@
 title: NASA Hackathon
 date: 2022-12-05 21:00:00 -0800
 categories: [Hackathon, NASA Hackathon 2019]
-tags: [nasa,hackathon,2019,space,spaceapps,challenge,dalhousie,university,daehwan,kim,david]     # TAG names should always be lowercase
+tags: [nasa,hackathon,"2019",space,spaceapps,challenge,dalhousie,university,daehwan,kim,david]     # TAG names should always be lowercase
 ---
 
 # 1st Place NASA Spaceapps Challenge 2019 Nova Scotia
