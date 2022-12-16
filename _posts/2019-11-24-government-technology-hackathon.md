@@ -13,9 +13,9 @@ In 2019, I had a chance to participate in Government Technology Hackathon challe
 
 Hackathon is a problem solving challenge in limited time on various topics. For example, my team's challenge was in Digital Service section, which was
 
-/*
-Improve recycling using technology.
-*/
+
+// Improve recycling using technology.
+
 
 ## How did we fix the problem?
 
