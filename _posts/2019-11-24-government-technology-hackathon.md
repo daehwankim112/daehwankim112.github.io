@@ -31,5 +31,5 @@ We have developed a simulation of our system. The left side of the screen lets u
 
 This experience was different from NASA Spaceapps hackathon. We have learned that communication and team work is essential for the project to be carried out. 
 
-
-
+### Members
+Samuel Levac Levey, Mohammed Abdelgawad, Niharika Prasad, Shitanshu Roy, Moha Gad, Daehwan Kim

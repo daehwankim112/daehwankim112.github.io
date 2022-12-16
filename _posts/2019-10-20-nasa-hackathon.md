@@ -34,10 +34,6 @@ We have developed a simulation of our system. Each colored point represents a wa
 It is possible to start a business with a working business model and practical engineering. We could have started a business with funding. However, I have faced the reality of being an international student and had to focus on academics. During this experience all of us realized that it is actually possible. Now, knowing that it is possible, I am very interested in starting a business.
 
 ### Members
-York Yun Fan Qie
-Sam Barefoot
-Daksh Dua
-Yijun
-Daehwan Kim
+York Yun Fan Qie, Sam Barefoot, Daksh Dua, Yijun, Daehwan Kim
 
 
