@@ -13,11 +13,11 @@ In 2019, I had a chance to participate in NASA International Spaceapps challenge
 
 Hackathon is a problem solving challenge in limited time on various topics. For example, my team's challenge was
 
-```
+/*
 Oceanic garbage patches are collections of marine debris that come together due to ocean currents.
 They have devastating effects on ocean ecosystems.
 Your challenge is to design a mission to help clean up garbage from the ocean!
-```
+*/
 
 ## How did we fix the problem?
 
