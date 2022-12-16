@@ -7,9 +7,9 @@ tags: [nasa,hackathon,"2019",space,spaceapps,challenge,dalhousie,university,daeh
 
 # 1st Place NASA Spaceapps Challenge 2019 Nova Scotia
 
-In 2019, I had a chance to participate in NASA International Spaceapps challenge in Dalhousie University, Nova Scotia. It was one of my greatest experience to have and recommend others to participate.
+In 2019, I had a chance to participate in NASA International Spaceapps challenge at Dalhousie University, Nova Scotia. It was one of my greatest experiences to have and highly recommend others to participate.
 
-## What is hackathon?
+## What is a hackathon?
 
 Hackathon is a problem solving challenge in limited time on various topics. For example, my team's challenge was
 
@@ -17,7 +17,17 @@ Hackathon is a problem solving challenge in limited time on various topics. For 
 Oceanic garbage patches are collections of marine debris that come together due to ocean currents; they have devastating effects on ocean ecosystems. Your challenge is to design a mission to help clean up garbage from the ocean!
 ```
 
-// Haven't finished writing. Check if "Source as Github Actions fixes mobile deployment issue."
+## How did we fix the problem?
+
+We are going to use CATCH/RELEASE system that could be attached on any watercraft. The module is basically a filter that collects microplastics on the surface of the ocean. Our system would not be effective when there were not sufficient vessels on the system. Therefore, we had to demonstrate that with enough vessels on the ocean with the system, it would be functional.
+
+## What did I contribute?
+
+We have developed a simulation of our system. Each colored point represents a watercraft with our system. Each white dot represents a set of microplastics on the surface of the ocean. By clicking on the simulation, it "spawns" another ship in the body of water.
+
+## What have we learned?
+
+It is possible to start a business with a working business model and practical engineering. We could have started a business with funding. However, I have faced the reality of being an international student and had to focus on academics. During this experience all of us realized that it is actually possible. Now, knowing that it is possible, I am very interested in starting a business.
 
 
 
