@@ -7,15 +7,17 @@ tags: [government, technology,hackathon,"2019",challenge,dalhousie,university,da
 
 # 1st Place Government Technology Hackathon 2019 Nova Scotia
 
+![Desktop View](/assets/images/yearbook/image4.png){: width=100% }
+
 In 2019, I had a chance to participate in Government Technology Hackathon challenge at Dalhousie University, Nova Scotia, in collaboration with Ventureforcanada. This post is based on the previous post template "NASA Hackathon".
 
 ## What is a hackathon?
 
 Hackathon is a problem solving challenge in limited time on various topics. For example, my team's challenge was in Digital Service section, which was
 
-
-// Improve recycling using technology.
-
+```
+Improve recycling using technology.
+```
 
 ## How did we fix the problem?
 
