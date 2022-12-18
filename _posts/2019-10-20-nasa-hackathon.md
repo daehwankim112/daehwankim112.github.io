@@ -25,6 +25,8 @@ Your challenge is to design a mission to help clean up garbage from the ocean!
 
 We are going to use CATCH/RELEASE system that could be attached on any watercraft. The module is basically a filter that collects microplastics on the surface of the ocean. Our system would not be effective when there were not sufficient vessels on the system. Therefore, we had to demonstrate that with enough vessels on the ocean with the system, it would be functional.
 
+<iframe src="https://editor.p5js.org/rlaeoghks112/full/Wf4_7bo1l"></iframe>
+
 ## What did I contribute?
 
 We have developed a simulation of our system. Each colored point represents a watercraft with our system. Each white dot represents a set of microplastics on the surface of the ocean. By clicking on the simulation, it "spawns" another ship in the body of water.
