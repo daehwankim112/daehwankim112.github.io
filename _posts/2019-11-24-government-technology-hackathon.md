@@ -23,11 +23,11 @@ Improve recycling using technology.
 
 We have developed a system that uses recycled waste to build houses. This system is going to solve the recycling crisis caused by short demand, affordable housing, deforestation, concrete emissions and waste in housing. Recycled waste gets reframed into building material that could be 3D printed.
 
-<iframe src="https://editor.p5js.org/rlaeoghks112/full/tGP4UGfyC" width="1280" height="560"></iframe>
+<iframe src="https://editor.p5js.org/rlaeoghks112/full/tGP4UGfyC" width="1300" height="560"></iframe>
 
 ## What did I contribute?
 
-We have developed a simulation of our system. The left side of the screen lets user draw a 2D blueprint of the building. The right side of the screen shows the building process of 3D printing based on the blueprint. User could select different structure type to select between wall and window. Click "Build" button to initiate the building process.
+We have developed a simulation of our system. The left side of the screen lets user draw a 2D blueprint of the building. The right side of the screen shows the building process of 3D printing based on the blueprint. User could select different structure type to select between wall and window. Click "Build" button to initiate the building process. Full screen link: https://editor.p5js.org/rlaeoghks112/full/qIkfj3_sx
 
 ## What have we learned?
 
