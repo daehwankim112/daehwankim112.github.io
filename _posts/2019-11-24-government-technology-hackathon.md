@@ -9,7 +9,7 @@ tags: [government, technology,hackathon,"2019",challenge,dalhousie,university,da
 
 ![Desktop View](/assets/images/yearbook/image4.png){: width="100%" }
 
-In 2019, I had a chance to participate in Government Technology Hackathon challenge at Dalhousie University, Nova Scotia, in collaboration with Ventureforcanada. This post is based on the previous post template <a href="./2019-10-20-nasa-hackathon">NASA Hackathon.</a>
+In 2019, I had a chance to participate in Government Technology Hackathon challenge at Dalhousie University, Nova Scotia, in collaboration with Ventureforcanada. This post is based on the previous post template <a href="../nasa-hackathon">NASA Hackathon.</a>
 
 ## What is a hackathon?
 
