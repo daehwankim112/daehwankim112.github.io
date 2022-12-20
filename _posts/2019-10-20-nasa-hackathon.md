@@ -7,7 +7,7 @@ tags: [nasa,hackathon,"2019",space,spaceapps,challenge,dalhousie,university,daeh
 
 # 1st Place NASA Spaceapps Challenge 2019 Nova Scotia
 
-![Desktop View](/assets/images/yearbook/image3.png){: width=100% }
+![Desktop View](/assets/images/yearbook/image3.png){: width="100%" }
 
 In 2019, I had a chance to participate in NASA International Spaceapps challenge at Dalhousie University, Nova Scotia. It was one of my greatest experiences to have and highly recommend others to participate.
 
