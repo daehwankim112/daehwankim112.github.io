@@ -9,7 +9,7 @@ tags: [ludum,dare,game,jam,"2022",challenge,victoria,university,daehwan,kim,davi
 
 ![Desktop View](/assets/images/yearbook/image5.png){: width="100%" }
 
-I had a chance to participate in <a href="https://ludumdare.com/"> LudumDare Game </a> Jam in 2022 Oct 1st, thanks to <a href="uvic.gamedev.club@gmail.com"> UVIC Game Development Club</a>. I made my first working VR game on Unity 2019.3.8f1.
+I had a chance to participate in <a href="https://ludumdare.com/"> LudumDare Game </a> Jam in 2022 Oct 1st, thanks to UVIC Game Development Club. I made my first working VR game on Unity 2019.3.8f1.
 
 ## What is Game Jam?
 
@@ -40,6 +40,9 @@ https://github.com/daehwankim112/Ludum-Dare---Shoot-Zombies---Static-FPS
 
 ### Valem
 https://youtu.be/ysbc1oEq11s
+
+### Uvic Game Development
+uvic.gamedev.club@gmail.com
 
 
 
