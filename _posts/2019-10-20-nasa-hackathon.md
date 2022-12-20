@@ -38,4 +38,7 @@ It is possible to start a business with a working business model and practical e
 ### Members
 York Yun Fan Qie, Sam Barefoot, Daksh Dua, Yijun, Daehwan Kim
 
+### Project Details
+https://2019.spaceappschallenge.org/challenges/earths-oceans/trash-cleanup/teams/barnacle/project
+
 
