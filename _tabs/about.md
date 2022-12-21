@@ -11,6 +11,6 @@ My name is David. My legal full name is Daehwan Kim. I am interested in VR/AR in
 ## Contact
 
 Email: daehwankim@uvic.ca <br />
-LinkedIN: https://linkedin.com/in/daehwankim1234 <br />
-Youtube: https://www.youtube.com/@daekim2842 <br />
-Instagram: https://instagram.com/daehwankim112/ <br />
+LinkedIN: <a href="https://linkedin.com/in/daehwankim1234">https://linkedin.com/in/daehwankim1234</a> <br />
+Youtube: <a href="https://www.youtube.com/@daekim2842">https://www.youtube.com/@daekim2842</a> <br />
+Instagram: <a href="https://instagram.com/daehwankim112/">https://instagram.com/daehwankim112/</a> <br />
