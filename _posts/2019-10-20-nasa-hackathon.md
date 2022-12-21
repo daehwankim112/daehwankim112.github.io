@@ -7,7 +7,7 @@ tags: [nasa,hackathon,"2019",space,spaceapps,challenge,dalhousie,university,daeh
 
 # 1st Place NASA Spaceapps Challenge 2019 Nova Scotia
 
-![Desktop View](/assets/images/yearbook/image3.png){: width="100%" }
+![Desktop View](/assets/images/nasa/image1.png){: width="100%" }
 
 In 2019, I had a chance to participate in NASA International Spaceapps challenge at Dalhousie University, Nova Scotia. It was one of my greatest experiences to have and highly recommend others to participate.
 
@@ -27,7 +27,7 @@ We are going to use CATCH/RELEASE system that could be attached on any watercraf
 
 <iframe src="https://editor.p5js.org/rlaeoghks112/full/Wf4_7bo1l" width="1010px" height="750px"></iframe>
 
-## What did I contribute?
+## What did you contribute?
 
 We have developed a simulation of our system. Each colored point represents a watercraft with our system. Each white dot represents a set of microplastics on the surface of the ocean. By clicking on the simulation, it "spawns" another ship in the body of water.
 

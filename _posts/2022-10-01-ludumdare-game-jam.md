@@ -7,7 +7,7 @@ tags: [ludum,dare,game,jam,"2022",challenge,victoria,university,daehwan,kim,davi
 
 # My First VR Game: LudumDare Game Jam 2022 
 
-![Desktop View](/assets/images/yearbook/image5.png){: width="100%" }
+![Desktop View](/assets/images/ludumdare/image1.png){: width="100%" }
 
 I had a chance to participate in <a href="https://ludumdare.com/"> LudumDare Game </a> Jam in 2022 Oct 1st, thanks to UVIC Game Development Club. I made my first working VR game on Unity 2019.3.8f1.
 
@@ -15,9 +15,9 @@ I had a chance to participate in <a href="https://ludumdare.com/"> LudumDare Gam
 
 Game Jam is similar to a hackathon. The organizer announces the theme of the game jam at the begging of the event. This time, it was "Every 10 seconds". Participants need to build a game that fits into the theme in a limited amount of time, usually 72 hours.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7uyGG5ffw5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/7uyGG5ffw5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## What is my game about?
+## What was your game about?
 ```
 theme : "Every 10 seconds"
 ```
@@ -31,15 +31,15 @@ Thanks to the "Uvic Game Development Club", we had a chance to brainstorm about 
 * I am currently enrolled at the University of Victoria. I had to carry on with the jam during my term. I had some time management problems ending, staying up a lot.
 
 
-## What have I learned?
+## What have you learned?
 
 Unity is a well made engine for VR Game development. It seems like they are trying to expand their support for such a development environment. <a href="https://www.youtube.com/@ValemVR"> Valem </a> posts tutorials of VR game development on Youtube. He also has a patroen tutorials.
 
 ### Source Code:
-https://github.com/daehwankim112/Ludum-Dare---Shoot-Zombies---Static-FPS
+<a href="https://github.com/daehwankim112/Ludum-Dare---Shoot-Zombies---Static-FPS">https://github.com/daehwankim112/Ludum-Dare---Shoot-Zombies---Static-FPS </a>
 
 ### Valem
-https://youtu.be/ysbc1oEq11s
+<a href="https://youtu.be/ysbc1oEq11s">https://youtu.be/ysbc1oEq11s</a>
 
 ### Uvic Game Development
 uvic.gamedev.club@gmail.com

@@ -85,4 +85,12 @@ std::cout << "Hello World!" << std::endl;
 // ```
 ```
 
+### Running on local machine
+
+```
+bundle // Installing dependencies
+bundle exec jekyll s // Running local Server
+```
+Local Server address: <a href="http://127.0.0.1:4000">http://127.0.0.1:4000</a>
+
 This is pretty much what I will be using for this github page. More information about how to post can be found here. https://chirpy.cotes.page/posts/write-a-new-post/

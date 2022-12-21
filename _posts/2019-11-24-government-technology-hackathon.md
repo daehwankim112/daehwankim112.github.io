@@ -7,7 +7,7 @@ tags: [government, technology,hackathon,"2019",challenge,dalhousie,university,da
 
 # 1st Place Government Technology Hackathon 2019 Nova Scotia
 
-![Desktop View](/assets/images/yearbook/image4.png){: width="100%" }
+![Desktop View](/assets/images/government/image1.png){: width="100%" }
 
 In 2019, I had a chance to participate in Government Technology Hackathon challenge at Dalhousie University, Nova Scotia, in collaboration with Ventureforcanada. This post is based on the previous post template <a href="../nasa-hackathon">NASA Hackathon.</a>
 
@@ -25,7 +25,7 @@ We have developed a system that uses recycled waste to build houses. This system
 
 <iframe src="https://editor.p5js.org/rlaeoghks112/full/tGP4UGfyC" width="1290px" height="610px"></iframe>
 
-## What did I contribute?
+## What did you contribute?
 
 We have developed a simulation of our system. The left side of the screen lets user draw a 2D blueprint of the building. The right side of the screen shows the building process of 3D printing based on the blueprint. User could select different structure type to select between wall and window. Click "Build" button to initiate the building process. Full screen link: https://editor.p5js.org/rlaeoghks112/full/qIkfj3_sx
 
