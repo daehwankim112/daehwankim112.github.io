@@ -9,7 +9,7 @@ tags: [game,julia,mandelbrot,fractal,set,android,app,application,play,store,"202
 
 ![Desktop View](/assets/images/julia/image1.png){: width="100%" }
 
-I made an android app that user can simulate julia set in 2020 May. So far, 2022 December, more than 500 downloads are recorded. I was interested in how far we could zoom in in mandelbrot set. I wanted to make a simulation of madelbrot set and push its limit on android device. Later, running a fractal on andriod device was more expensive than my expection that I changed direction and built julia set simulation instead.
+I made an android app that user can simulate Julia set in 2020 May. So far, in 2022 December, more than 500 downloads have been recorded. I was interested in how far we could zoom in in mandelbrot set. I wanted to make a simulation of madelbrot set and push its limit on android device. Later, running a fractal on an andriod device was more expensive than my expection that I changed direction and built Julia set simulation instead.
 
 ## What is Julia Set?
 
@@ -44,14 +44,14 @@ It is a simulation of Julia Set. User can
 
 ## Challenges
 
-* This app is developed using unity engine. I wish I could have made it without using already existing engine. However, I did not know where to begin. The development process was highly dependent on <a href="https://youtu.be/kY7liQVPQSc">The Art of Code</a>.
+* This app is developed using Unity Engine. I wish I could have made it without using an already existing engine. However, I did not know where to begin. The development process was highly dependent on <a href="https://youtu.be/kY7liQVPQSc">The Art of Code</a>.
 
 ## What have you learned?
 
 ![Desktop View](/assets/images/julia/image2.png){: width="100%" }
 _Installed audience by country_
 
-It is possible to build an app using unity. However, I lack fundemental knowledge in unity itself. Furthermore, optimization is an issue on android platform. I targetted user persona to be my friends but apparantly there are more people who are using my app than my expectation.
+It is possible to build an app using unity. However, I lack fundamental knowledge in unity itself. Furthermore, optimization is an issue on the android platform. I targetted user persona to be my friends, but apparently there are more people who are using my app than my expectations.
 
 
 ### Source Code
