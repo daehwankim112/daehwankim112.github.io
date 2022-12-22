@@ -2,12 +2,12 @@
 title: Jekyll Chirpy
 date: 2022-11-05 21:00:00 -0800
 categories: [Projects, jekyll chirpy]
-tags: [github,page,jekyll,chirpy,daehwan,kim,david]     # TAG names should always be lowercase
+tags: [github,page,"2022",jekyll,chirpy,daehwan,kim,david]     # TAG names should always be lowercase
 ---
 
 # Hello World!
 
-This is my first post on my github page. This page is generated using jekyll chirpy.
+This is my first post on my github page. This page is generated using jekyll chirpy. This is an instruction about how to write a post.
 
 Check their github: https://github.com/cotes2020/jekyll-theme-chirpy
 
