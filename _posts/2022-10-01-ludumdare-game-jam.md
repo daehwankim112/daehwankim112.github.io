@@ -14,8 +14,9 @@ I had a chance to participate in <a href="https://ludumdare.com/"> LudumDare Gam
 ## What is Game Jam?
 
 Game Jam is similar to a hackathon. The organizer announces the theme of the game jam at the begging of the event. This time, it was "Every 10 seconds". Participants need to build a game that fits into the theme in a limited amount of time, usually 72 hours.
-
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/7uyGG5ffw5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class = "video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7uyGG5ffw5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## What was your game about?
 ```
@@ -35,7 +36,7 @@ Thanks to the "Uvic Game Development Club", we had a chance to brainstorm about 
 
 Unity is a well made engine for VR Game development. It seems like they are trying to expand their support for such a development environment. <a href="https://www.youtube.com/@ValemVR"> Valem </a> posts tutorials of VR game development on Youtube. He also has a patroen tutorials.
 
-### Source Code:
+### Source Code
 <a href="https://github.com/daehwankim112/Ludum-Dare---Shoot-Zombies---Static-FPS">https://github.com/daehwankim112/Ludum-Dare---Shoot-Zombies---Static-FPS </a>
 
 ### Valem
@@ -44,6 +45,18 @@ Unity is a well made engine for VR Game development. It seems like they are tryi
 ### Uvic Game Development
 uvic.gamedev.club@gmail.com
 
-
+<style>
+    .video-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        height: 0;
+    }
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 
 
