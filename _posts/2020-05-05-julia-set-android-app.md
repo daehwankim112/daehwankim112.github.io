@@ -53,7 +53,6 @@ _Installed audience by country_
 
 It is possible to build an app using unity. However, I lack fundamental knowledge in unity itself. Furthermore, optimization is an issue on the android platform. I targetted user persona to be my friends, but apparently there are more people who are using my app than my expectations.
 
-
 ### Source Code
 <a href="https://github.com/daehwankim112/Julia-Set-Unity-Android-App">https://github.com/daehwankim112/Julia-Set-Unity-Android-App</a>
 
