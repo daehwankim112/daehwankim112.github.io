@@ -11,7 +11,7 @@ tags: [unity,assets,3d,texture,audio,code,framework,justin,VR,virtual,reality"20
 {: .prompt-warning }
 
 # Assets
-Building assets from scratch is one of the most troublesome work we could avoid as a developer. <a href="https://assetstore.unity.com">Unity asset store</a> shares lots of libraries for us but there are other supportive platforms as well. Keep in mind that some are not free and shall be creditted. I have learned about them through <a href="https://www.youtube.com/c/justinpbarnett">Justin P Barnett's VR Academy</a>.
+Building assets from scratch is one of the most troublesome work we could avoid as a developer. <a href="https://assetstore.unity.com">Unity asset store</a> shares lots of libraries for us, but there are other supportive platforms as well. Keep in mind that some are not free and shall be credited. I have learned about them through <a href="https://www.youtube.com/c/justinpbarnett">Justin P Barnett's VR Academy</a>.
 
 ## 3D Arts
 <a href="https://www.turbosquid.com">turbosquid.com</a><br>
