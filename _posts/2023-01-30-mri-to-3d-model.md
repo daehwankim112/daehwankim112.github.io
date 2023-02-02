@@ -19,10 +19,11 @@ On September 1st, 2022, I took an MRI of my spinal cord. The doctor showed me my
 
 MRI (Magnetic Resonance Imagining) is a medical imagining technique used in radiology to form pictures of the anatomy and the physiological processes of the body. Using MRI scans, doctors can detect certain diseases by better understanding of the inner situation of patients.
 
-
+<!---
 <div class = "video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7uyGG5ffw5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+--->
 
 ## Prepare the working environment.
 
@@ -64,17 +65,12 @@ Blender is a useful tool for 3D modeling. It could also be used for modelling, r
 
 
 <style>
-    .video-container {
-        position: relative;
-        padding-bottom: 56.25%; /* 16:9 */
-        height: 0;
-    }
-    .video-container iframe {
+    .sketchfab-embed-wrapper iframe {
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
     }
-
+</style>
 
