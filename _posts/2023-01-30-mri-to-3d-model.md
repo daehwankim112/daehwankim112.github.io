@@ -15,7 +15,7 @@ On September 1st, 2022, I took an MRI of my spinal cord. The doctor showed me my
 
 ## What is MRI?
 
-![Desktop View](/assets/images/mri/image1.png){: width="100%" }
+![Desktop View](/assets/images/mri/image1.png){: width="50%" }
 
 MRI (Magnetic Resonance Imagining) is a medical imagining technique used in radiology to form pictures of the anatomy and the physiological processes of the body. Using MRI scans, doctors can detect certain diseases by better understanding of the inner situation of patients.
 
@@ -65,7 +65,11 @@ Blender is a useful tool for 3D modeling. It could also be used for modelling, r
 
 
 <style>
-    .sketchfab-embed-wrapper iframe {
+    .sketchfab-embed-wrapper {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */ 
+    }
+    iframe{
         position: absolute;
         top: 0;
         left: 0;
