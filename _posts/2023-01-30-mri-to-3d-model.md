@@ -20,7 +20,7 @@ On September 1st, 2022, I took an MRI of my spinal cord. The doctor showed me my
 
 ## What is MRI?
 
-![Desktop View](/assets/images/mri/image1.png){: width="5%" }
+![Desktop View](/assets/images/mri/image1.png){: width="50%" }
 
 MRI (Magnetic Resonance Imagining) is a medical imagining technique used in radiology to form pictures of the anatomy and the physiological processes of the body. Using MRI scans, doctors can detect certain diseases by better understanding of the inner situation of patients.
 
