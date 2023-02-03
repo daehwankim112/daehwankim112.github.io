@@ -9,21 +9,20 @@ tags: [mri,"3d",scan,model,ct,bone,disc,slicer,blender,"2023",victoria,universit
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Spinal Cord [bones and discs]" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f2225d4988b04b45848440f27a027342/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/spinal-cord-bones-and-discs-f2225d4988b04b45848440f27a027342?utm_medium=embed&utm_campaign=share-popup&utm_content=f2225d4988b04b45848440f27a027342" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Spinal Cord [bones and discs] </a> by <a href="https://sketchfab.com/daehwankim?utm_medium=embed&utm_campaign=share-popup&utm_content=f2225d4988b04b45848440f27a027342" target="_blank" style="font-weight: bold; color: #1CAAD9;"> daehwankim </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f2225d4988b04b45848440f27a027342" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
+_My spinal cord including bones and discs._
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Spinal Cord [discs]" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/379ce1dbe7e646459ba3210e054f06f0/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/spinal-cord-discs-379ce1dbe7e646459ba3210e054f06f0?utm_medium=embed&utm_campaign=share-popup&utm_content=379ce1dbe7e646459ba3210e054f06f0" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Spinal Cord [discs] </a> by <a href="https://sketchfab.com/daehwankim?utm_medium=embed&utm_campaign=share-popup&utm_content=379ce1dbe7e646459ba3210e054f06f0" target="_blank" style="font-weight: bold; color: #1CAAD9;"> daehwankim </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=379ce1dbe7e646459ba3210e054f06f0" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+_My spinal cord. Discs only._
 
 
 On September 1st, 2022, I took an MRI of my spinal cord. The doctor showed me my spinal cord on the screen and gave me the MRI scan on CD. Then I met <a href="https://www.linkedin.com/in/marianne-black-4518a523/?originalSubdomain=ca">Dr. Marianne Black</a> on January 11th 2023. She showed me a musculoskeletal 3D model she had created based on an MRI scan. Her works are very inspiring and motivated me to work on this.
 
 ## What is MRI?
 
-![Desktop View](/assets/images/mri/image1.png){: width="50%" }
+![Desktop View](/assets/images/mri/image1.png){: width="5%" }
 
 MRI (Magnetic Resonance Imagining) is a medical imagining technique used in radiology to form pictures of the anatomy and the physiological processes of the body. Using MRI scans, doctors can detect certain diseases by better understanding of the inner situation of patients.
-
-<!---
-<div class = "video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7uyGG5ffw5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
---->
 
 ## Prepare the working environment.
 
@@ -47,8 +46,6 @@ MRI (Magnetic Resonance Imagining) is a medical imagining technique used in radi
 
 ## What have you learned?
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Spinal Cord [discs]" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/379ce1dbe7e646459ba3210e054f06f0/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/spinal-cord-discs-379ce1dbe7e646459ba3210e054f06f0?utm_medium=embed&utm_campaign=share-popup&utm_content=379ce1dbe7e646459ba3210e054f06f0" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Spinal Cord [discs] </a> by <a href="https://sketchfab.com/daehwankim?utm_medium=embed&utm_campaign=share-popup&utm_content=379ce1dbe7e646459ba3210e054f06f0" target="_blank" style="font-weight: bold; color: #1CAAD9;"> daehwankim </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=379ce1dbe7e646459ba3210e054f06f0" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
-
 Blender is a useful tool for 3D modeling. It could also be used for modelling, rigging, and animations. Especially, rigging is an important process to build moving objects in VR environments. When a user tries a new avatar for motion tracking and if calibration does not fix the drifting or breaking issues, the developer should locate the bugs in Unity or Blender and fix them.
 
 
@@ -62,6 +59,9 @@ Blender is a useful tool for 3D modeling. It could also be used for modelling, r
 
 ### Dr. Marianne Black
 <a href="https://www.linkedin.com/in/marianne-black-4518a523/?originalSubdomain=ca">https://www.linkedin.com/in/marianne-black-4518a523/?originalSubdomain=ca</a>
+
+### Sketchfab
+<a href="https://sketchfab.com/daehwankim">https://sketchfab.com/daehwankim</a>
 
 
 <style>
