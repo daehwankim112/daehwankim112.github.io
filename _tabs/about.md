@@ -11,7 +11,7 @@ My name is David. My legal full name is Daehwan Kim. I am interested in VR/AR in
 ## Contact
 
 Email: daehwankim@uvic.ca <br />
-LinkedIN: <a href="https://www.linkedin.com/in/daehwankim1234">https://www.linkedin.com/in/daehwankim1234</a> <br />
+LinkedIN: <a href="https://www.linkedin.com/in/daehwan1234/">https://www.linkedin.com/in/daehwankim1234</a> <br />
 Youtube: <a href="https://www.youtube.com/@daekim2842">https://www.youtube.com/@daekim2842</a> <br />
 Instagram: <a href="https://instagram.com/daehwankim112/">https://instagram.com/daehwankim112/</a> <br />
 
@@ -32,13 +32,13 @@ Instagram: <a href="https://instagram.com/daehwankim112/">https://instagram.com/
 
 <a href="https://daehwankim112.github.io/"> ### https://daehwankim112.github.io/ </a>
 
-<a href="https://www.linkedin.com/in/daehwankim1234"> ### https://www.linkedin.com/in/daehwankim1234 </a>
+<a href="https://www.linkedin.com/in/daehwan1234/"> ### https://www.linkedin.com/in/daehwan1234/ </a>
 
 ## Projects
 
 **Click the title to open a documentation in your browser.**
 
-**Slime VR and Lucas VR Jan 202 3 – Present**
+**Slime VR and Lucas VR Jan 2023 – Present**
 
 - Slime VR: building body trackers from scratch.
 - Lucas VR: building force-feedback VR glove from scratch.
