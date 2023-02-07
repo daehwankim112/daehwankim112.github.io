@@ -32,7 +32,7 @@ Instagram: <a href="https://instagram.com/daehwankim112/">https://instagram.com/
 
 ### <a href="https://daehwankim112.github.io/"> https://daehwankim112.github.io/
 
-### <a href="http://www.linkedin.com/in/daehwan"> http://www.linkedin.com/in/daehwan
+### <a href="https://www.linkedin.com/in/daehwankim1234"> https://www.linkedin.com/in/daehwankim1234
 
 ## Projects
 
