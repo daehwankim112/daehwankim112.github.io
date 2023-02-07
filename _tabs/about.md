@@ -30,9 +30,9 @@ Instagram: <a href="https://instagram.com/daehwankim112/">https://instagram.com/
 
 ### daehwankim@uvic.ca
 
-### <a href="https://daehwankim112.github.io/"> https://daehwankim112.github.io/
+<a href="https://daehwankim112.github.io/"> ### https://daehwankim112.github.io/ </a>
 
-### <a href="https://www.linkedin.com/in/daehwankim1234"> https://www.linkedin.com/in/daehwankim1234
+<a href="https://www.linkedin.com/in/daehwankim1234"> ### https://www.linkedin.com/in/daehwankim1234 </a>
 
 ## Projects
 
