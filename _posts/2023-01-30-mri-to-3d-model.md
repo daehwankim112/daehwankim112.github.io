@@ -54,9 +54,6 @@ Blender is a useful tool for 3D modeling. It could also be used for modelling, r
 * Using 3D Slicer to build 3D model could take a lot of time. Next time, find, or build a better solution.
 * Learning blender gives me tremendous power to fix issues and express my creativity. Learn more about it.
 
-### Source Code
-<a href="https://github.com/daehwankim112/MRI_to_3D_model">https://github.com/daehwankim112/MRI_to_3D_model </a>
-
 ### Dr. Marianne Black
 <a href="https://www.linkedin.com/in/marianne-black-4518a523/?originalSubdomain=ca">https://www.linkedin.com/in/marianne-black-4518a523/?originalSubdomain=ca</a>
 
