@@ -26,7 +26,7 @@ Instagram: <a href="https://instagram.com/daehwankim112/">https://instagram.com/
 
 # David Kim
 
-### 2034 Ferndale Road, Victora, V8N 2Y7, +1-250-885- 6673
+###  Victora, BC
 
 ### daehwankim@uvic.ca
 
